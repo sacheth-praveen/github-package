@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sacheth-praveen/github-package/issues"
   },
-  "homepage": "https://github.com/sacheth-praveen/github-package#readme"
+  "homepage": "https://github.com/sacheth-praveen/github-package#readme",
+  "publishConfig": {
+    "@sacheth-praveen:registry": "https://npm.pkg.github.com"
+  }
 }
